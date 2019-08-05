@@ -5,8 +5,7 @@
         <description>5e homebrew</description>
         <author url="https://dnd-5e-homebrew.tumblr.com/post/147044434296/arcanatron-race-by-geekfirelabs">geekfirelabs</author>
         <update version="0.0.4">
-            <file name="race-arcanatron.xml" />
-            url="https://github.com/Osnil/My-Homebrew-Collection/blob/master/race-arcanatron.xml"
+            <file name="race-arcanatron.xml"  url="https://github.com/Osnil/My-Homebrew-Collection/blob/master/race-arcanatron.xml" />
         </update>
     </info>
 

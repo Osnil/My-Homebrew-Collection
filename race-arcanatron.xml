@@ -23,19 +23,20 @@
                 <span class="feature">Example Names:</span> Ios, Oi, Clio, Lio, Ois, Diodri, Eion, Nio, Niino, Miono, Sioto, Uio, Viovi<br/>
                 <span class="feature">Example Surnames:</span> Pale Blue Dot (Dotty), Remembers When (Remy), Wanders Through World (Wanda), Stays At Home (Homer), Woven Under A Waking Moon(Waximus), Black Fox (Fox), Beautiful Badger Going Over the Hill (Badger)<br/>
             </p>
-            <h4>HOMUNCULUS TRAITS</h4>
-            <p>Homunculi were created by a large merchant empire called Xerxes.</p>
+            <h4>ARCANATRON TRAITS</h4>
             <p>
-                <span class="feature">Ability Score Increase.</span>Your Charisma score increases by 2, and your Dexterity or Strength score increases by 1.<br/>
-                <span class="feature">Age.</span>Homunculi being living constructs are unable to age from the point they are created at. Otherwise they are immortal.<br/>
-                <span class="feature">Alignment.</span>Being created, homunculi are soulless beings so they start out completely neutral, but innately tend towards a chaotic alignment with a natural curiosity of the world they were brought into.<br/>
-                <span class="feature">Size.</span>Homunculi are the same size and build as humans. Your size is Medium.<br/>
+                <span class="feature">Ability Score Increase.</span>Your Constitution increases by 1, and your Intelligence increases by 1.<br/>
+                <span class="feature">Age.</span>Theoretically, an Arcanatron can live indefinitely, for as long as its mana core holds out. It is possible for the creators of the specific Arcanatron to manually set a lifespan of their choice, for whatever reason, however this is not the norm.<br/>
+                <span class="feature">Alignment.</span>Arcanatrons were built in a world without magic and originally had no innate understanding of good or evil. They were robotic slaves to their masters, programmed to carry out specific tasks without question. During the Convergence, the exposure to both the raw magical energies of creation and destruction infused the arcanatrons with sentience, free will and, perhaps, with souls. They are inclined toward neutrality, but circumstance and age all play a role in individual alignment.<br/>
+                <span class="feature">Size.</span>Though very few arcanatrons look alike, they tend to favor modifying themselves to mimic human features.  Your size is Medium.<br/>
                 <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br/>
-                <span class="feature">Natural Liar.</span>Homunculi live through lying about their origins. You have proficiency in the Deception skill.<br/>
-                <span class="feature">Lifestone.</span>Homunculi have a Lifestone as their core that grants them excelled healing. After a short or long rest you gain temporary hit points equal to your level + your Constitution mod. Also if you lose any part of your body, it will regenerate over the course of a day. Any spells that would cause the caster to take damage deal half that rounded up.<br/>
-                <span class="feature">Living Construct.</span>You are a living construct. You do not need to eat, drink, breathe, or sleep. You never make Endurance checks to resist the effect of starvation, thirst, or suffocation. All other conditions and effects affect you normally.<br/>
-                <span class="feature">Arcane Origins.</span>You know the Prestidigitation cantrip. Once you reach 3rd level, you can cast the Hex spell once per day as a 2nd-level spell. Once you reach 5th level, you can also cast the Alter Self once per day. Charisma is your spellcasting ability for these spells.<br/>
-                <span class="feature">Languages.</span>You can speak, read, and write Common and one extra language of your choice. Homunculi typically learn the languages of other peoples they deal with, including obscure dialects.<br/>
+                <span class="feature">Darkvision.</span> You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.<br/>
+                <span class="feature">Living Construct.</span>Even though you were constructed, you are humanoid. You do not need to breathe, eat or drink, but you can ingest food or drink if you wish. You still benefit from the effects of consumable spells and magic items such as heroes feast and potions.<br/>
+                <span class="feature">Arcanatron Resilience.</span>You have advantage on saving throws against poison and have resistance to poison damage.<br/>
+                <span class="feature">Unsleeping Sentinel.</span>Arcanatrons don't need to sleep. Instead, they settle into a resting state, remaining semiconscious for 4 hours each day. While in this rest state, you are fully aware of your surroundings. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.<br/>
+                <span class="feature">Self Stabilizing.</span?Upon reaching 0 hit points, your mana core enters an emergency self-preservation mode and you slip into an inert state. You can be spooled up again through healing magic or by being repaired. You have advantage on death saving throws. <br />
+                <span class="feature">Languages.</span><br/>You can speak, read, and write Common, Ohwon, and one other language of your choice.<br />
+                <span class="feature">Models.</span>Several submodels of Arcanatrons are found among the worlds of D&D. Choose one of these models.
             </p>
         </description>
         <sheet display="false" />

@@ -79,7 +79,7 @@
             <description>You only need to rest four hours a day to benefit a long rest.</description>
         </sheet>
     </element>
-    <element name="Self-Stabilizing" type="Racial Trait" source="geekfirelabs" id="ID_ARCANATRON_SELF_STABILIZING">
+    <element name="Self-Stabilizing" type="Racial Trait" source="geekfirelabs" id="ID_GEEKFIRELABS_RACIAL_TRAIT_ARCANATRON_SELF_STABILIZING">
         <description>
             <p>You have advantage on death saving throws</p>
         </description>

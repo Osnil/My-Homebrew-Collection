@@ -43,19 +43,18 @@
         <rules>
             <stat name="intelligence" value="1"/>
             <stat name="constitution" value="1"/>
-            <stat name="innate speed" value="30" bonus="base"/>
+            <stat name="innate speed" value="30" bonus="base" />
             <grant type="Size" id="ID_SIZE_MEDIUM" />
             <grant type="Language" id="ID_LANGUAGE_COMMON" />
-            <grant type="Language" id="ID_LANGUAGE_OHWON" />
             <select type="Language" name="Language (Arcanatron)" />
-            <grant type="Racial Trait" id="ID_GEEKFIRELABS_RACIAL_TRAIT_ARCANATRON_LIVING_CONSTRUCT" />
-            <grant type="Racial Trait" id="ID_GEEKFIRELABS_RACIAL_TRAIT_ARCANATRON_RESILIENCE" />
-            <grant type="Racial Trait" id="ID_GEEKFIRELABS_RACIAL_TRAIT_UNSLEEPING_SENTINEL" />
-            <grant type="Racial Trait" id="ID_GEEKFIRELABS_RACIAL_TRAIT_ARCANATRON_SELF_STABILIZING" />
+            <grant type="Racial Trait" id="ID_GFL_RACIAL_TRAIT_ARCANATRON_LIVING_CONSTRUCT" />
+            <grant type="Racial Trait" id="ID_GFL_RACIAL_TRAIT_ARCANATRON_RESILIENCE" />
+            <grant type="Racial Trait" id="ID_GFL_RACIAL_TRAIT_UNSLEEPING_SENTINEL" />
+            <grant type="Racial Trait" id="ID_GFL_RACIAL_TRAIT_ARCANATRON_SELF_STABILIZING" />
         </rules>
     </element>
 
-    <element name="Living Construct" type="Racial Trait" source="geekfirelabs" id="ID_GEEKFIRELABS_RACIAL_TRAIT_ARCANATRON_LIVING_CONSTRUCT">
+    <element name="Living Construct" type="Racial Trait" source="geekfirelabs" id="ID_GFL_RACIAL_TRAIT_ARCANATRON_LIVING_CONSTRUCT">
         <description>
             <p>Even though you were constructed, you are humanoid. You do not need to breathe, eat or drink, but you can ingest food or drink if you wish. You still benefit from the effects of consumable spells and magic items such as heroes feast and potions.</p>
         </description>
@@ -63,7 +62,7 @@
             <description>You do not need to breathe, eat or drink, and take benefits from healing spells and consumable items.</description>
         </sheet>
     </element>
-    <element name="Arcanatron Resilience" type="Racial Trait" source="geekfirelabs" id="ID_GEEKFIRELABS_RACIAL_TRAIT_ARCANTRON_ARCANATRON_RESILIENCE">
+    <element name="Arcanatron Resilience" type="Racial Trait" source="geekfirelabs" id="ID_GFL_RACIAL_TRAIT_ARCANTRON_ARCANATRON_RESILIENCE">
         <description>
             <p>You have advantage on saving throws against poison and have resistance to poison damage.</p>
         </description>
@@ -71,7 +70,7 @@
             <description>You have advantage on saving throws against poison and have resistance to poison damage.</description>
         </sheet>
     </element>
-    <element name="Unsleeping Sentinel" type="Racial Trait" source="geekfirelabs" id="ID_GEEKFIRELABS_RACIAL_TRAIT_ARCANTRON_UNSLEEPING_SENTINEL">
+    <element name="Unsleeping Sentinel" type="Racial Trait" source="geekfirelabs" id="ID_GFL_RACIAL_TRAIT_ARCANTRON_UNSLEEPING_SENTINEL">
         <description>
             <p>Arcanatrons don't need to sleep. Instead, they settle into a resting state, remaining semiconscious for 4 hours each day. While in this rest state, you are fully aware of your surroundings. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
         </description>
